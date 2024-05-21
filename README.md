@@ -8,4 +8,5 @@ Isha || CSE 2nd Year
 
 Pragya || CSE 2nd Year
 
-Project : Heart Disease Prediction
+Project Title : Heart Disease Prediction using Machine Learning on an Imbalanced Dataset
+
